@@ -73,7 +73,7 @@ Log Scale Graph:
 
 Percentage Graph:
 
-![Percentage Grapgh](images/percentage_graph.png)
+![Percentage Graph](images/percentage_graph.png)
 
 Model Comparison:
 
