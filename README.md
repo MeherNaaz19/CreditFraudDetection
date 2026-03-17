@@ -47,6 +47,7 @@ Due to the highly imbalanced nature of the dataset, class weighting was applied 
 ## Dataset
 
 The dataset is sourced from Kaggle and contains anonymized credit card transactions.
+
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 > Note: The dataset is highly imbalanced, with fraudulent transactions representing a very small percentage of total transactions.
