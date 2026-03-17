@@ -47,7 +47,17 @@ Due to the highly imbalanced nature of the dataset, class weighting was applied 
 ## Dataset
 
 The dataset is sourced from Kaggle and contains anonymized credit card transactions.
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
+> Note: The dataset is highly imbalanced, with fraudulent transactions representing a very small percentage of total transactions.
+
+## ▶️ How to Run
+
+1. Open the notebook in Google Colab  
+2. Download the dataset from Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  
+3. Upload the file (`creditcard.csv`)  
+4. Run all cells to train and evaluate models
+   
 ## Output Screenshots:
 
 Fraud vs Normal graph
