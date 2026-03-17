@@ -40,12 +40,15 @@ Output Screenshots:
 Fraud vs Normal graph
 
 Pie Chart:
+
 <img width="434" height="411" alt="download" src="https://github.com/user-attachments/assets/f29e544b-7302-4ba9-8b82-639b8045e499" />
 
 Log Scale Graph:
+
 <img width="570" height="491" alt="download" src="https://github.com/user-attachments/assets/d9208100-12ba-4144-a684-329ff1997770" />
 
 Percentage Graph:
+
 <img width="571" height="491" alt="download" src="https://github.com/user-attachments/assets/bb8fc5fc-6f8b-4aab-b365-9f07ffecf0fe" />
 
 Model Comparison:
