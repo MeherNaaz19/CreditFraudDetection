@@ -65,11 +65,11 @@ Fraud vs Normal graph
 
 Pie Chart:
 
-<img width="434" height="411" alt="download" src="https://github.com/user-attachments/assets/f29e544b-7302-4ba9-8b82-639b8045e499" />
+![Pie Chart](images/pie_chart.png)
 
 Log Scale Graph:
 
-<img width="570" height="491" alt="download" src="https://github.com/user-attachments/assets/d9208100-12ba-4144-a684-329ff1997770" />
+![Log Graph](images/log_graph.png)
 
 Percentage Graph:
 
@@ -77,11 +77,11 @@ Percentage Graph:
 
 Model Comparison:
 
-<img width="547" height="435" alt="download" src="https://github.com/user-attachments/assets/59e817d6-91a4-46d8-8cf7-2c5539c3322b" />
+![Model Comparison](images/model_comparison.png)
 
 Metrics Comaprision Matrix:
 
-<img width="1482" height="240" alt="Screenshot 2026-03-17 102627" src="https://github.com/user-attachments/assets/d6d6a73c-fd7b-45e6-b865-8ab568497bdc" />
+![Metrics Table](images/metrics_table.png)
 
 ## Key Learning:
 - Importance of handling imbalanced datasets
