@@ -73,7 +73,7 @@ Log Scale Graph:
 
 Percentage Graph:
 
-<img width="571" height="491" alt="download" src="https://github.com/user-attachments/assets/bb8fc5fc-6f8b-4aab-b365-9f07ffecf0fe" />
+![Percentage Grapgh](images/percentage_graph.png)
 
 Model Comparison:
 
