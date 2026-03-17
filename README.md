@@ -37,12 +37,10 @@ The dataset is sourced from Kaggle and contains anonymized credit card transacti
 
 Output Screenshots:
 Fraud vs Normal graph
-![Fraud Graph](images/graph.png)
-Model Comparison
-![Comparison](images/comparison.png)
-Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="589" height="463" alt="download" src="https://github.com/user-attachments/assets/4b1620d2-7e62-4a34-a65e-924aee6434ff" />
 
+Model Comparison
+<img width="547" height="435" alt="download" src="https://github.com/user-attachments/assets/5c023d3b-1a9d-4687-b778-a2816fc56790" />
 
 Key Learning:
 Importance of handling imbalanced datasets
