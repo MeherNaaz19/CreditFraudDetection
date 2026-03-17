@@ -36,11 +36,25 @@ Dataset
 The dataset is sourced from Kaggle and contains anonymized credit card transactions.
 
 Output Screenshots:
-Fraud vs Normal graph
-<img width="589" height="463" alt="download" src="https://github.com/user-attachments/assets/4b1620d2-7e62-4a34-a65e-924aee6434ff" />
 
-Model Comparison
-<img width="547" height="435" alt="download" src="https://github.com/user-attachments/assets/5c023d3b-1a9d-4687-b778-a2816fc56790" />
+Fraud vs Normal graph
+
+Pie Chart:
+<img width="434" height="411" alt="download" src="https://github.com/user-attachments/assets/f29e544b-7302-4ba9-8b82-639b8045e499" />
+
+Log Scale Graph:
+<img width="570" height="491" alt="download" src="https://github.com/user-attachments/assets/d9208100-12ba-4144-a684-329ff1997770" />
+
+Percentage Graph:
+<img width="571" height="491" alt="download" src="https://github.com/user-attachments/assets/bb8fc5fc-6f8b-4aab-b365-9f07ffecf0fe" />
+
+Model Comparison:
+
+<img width="547" height="435" alt="download" src="https://github.com/user-attachments/assets/59e817d6-91a4-46d8-8cf7-2c5539c3322b" />
+
+Metrics Comaprision Matrix:
+
+<img width="1482" height="240" alt="Screenshot 2026-03-17 102627" src="https://github.com/user-attachments/assets/d6d6a73c-fd7b-45e6-b865-8ab568497bdc" />
 
 Key Learning:
 Importance of handling imbalanced datasets
